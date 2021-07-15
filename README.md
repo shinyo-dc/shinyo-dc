@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- [![shinyo-dc's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyo-dc)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination
 - 📫 How to reach me: duongchan159@gmail.com
 - 😄 Pronouns: He/Him 
+
