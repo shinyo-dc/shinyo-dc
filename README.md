@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![shinyo-dc's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyo-dc)]()
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyo-dc&langs_count=8)]()
 
 - 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity because I struggle with procrastination
