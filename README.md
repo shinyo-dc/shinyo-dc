@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![yanaginx's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanaginx)]()
+<!-- [![yanaginx's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanaginx)]() -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanaginx&langs_count=5)]()
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanaginx&langs_count=5)]() -->
 
-- 📫 How to reach me: duongchan159@gmail.com
-
+- 📫 Reach me at: [work@duong.contact](mailto:work@duong.contact) / [duongchan159@gmail.com](mailto:duongchan159@gmail.com)
+- 🌐 [duong.contact](https://duong.contact)
